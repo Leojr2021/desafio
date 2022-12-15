@@ -1,0 +1,30 @@
+header{
+    display: grid;
+    grid-template-rows: 15% 65% 20%;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+nav{
+    grid-column: 1/4;
+}
+
+.opening_text{
+    grid-column: 1/4;
+    grid-row: 2/3;
+    color: #fff;
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+    margin: auto;
+
+
+}
+
+.opening_button{
+
+    grid-column: 2/3;
+    grid-row: 3/4;
+    margin: 0 auto;
+    // display: flex;
+    // justify-content: center;
+}
