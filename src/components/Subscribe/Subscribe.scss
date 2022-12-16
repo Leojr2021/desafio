@@ -1,0 +1,23 @@
+.subscribe_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    // margin-top: 1rem;
+    min-height: 400px;
+  
+    h3,
+    h1 {
+      font-weight: lighter;
+    }
+    h1 {
+      font-size: 3rem;
+      margin-top: -1rem;
+    }
+    .subtitle{
+        text-align: center;
+        p{
+            margin-top: -1rem;
+        }
+    }
+  }

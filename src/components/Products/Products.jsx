@@ -45,7 +45,7 @@ const Products = () => {
                 </div>  
             </div>
             <div className="products_grid-img-right img-wrapper">
-                <img className="zoom blur" src="https://res.cloudinary.com/dr8u3dssn/image/upload/v1671087858/it%20glober/umbrellas_pibaej.jpg" alt="" />
+                <img className="zoom blur" src="https://res.cloudinary.com/dr8u3dssn/image/upload/v1671147673/it%20glober/puff_qv8j81.jpg" alt="" />
                 <div className="content fade ">
                 <div className="button">SHOP</div>
                 </div>
@@ -54,7 +54,7 @@ const Products = () => {
 
         <div className="products_grid">
             <div className="products_grid-img-left img-wrapper">
-                <img className="zoom blur" src="https://res.cloudinary.com/dr8u3dssn/image/upload/v1671087858/it%20glober/umbrellas_pibaej.jpg" alt="" />
+                <img className="zoom blur" src="https://res.cloudinary.com/dr8u3dssn/image/upload/v1671147689/it%20glober/VoomCart-Shopping_Cart-2-Square-_1200x1200px_1200x_sus2g4.jpg" alt="" />
                 <div className="content fade ">
                 <div className="button">SHOP</div>
                 </div>
@@ -87,7 +87,7 @@ const Products = () => {
                 </div>  
             </div>
             <div className="products_grid-img-right img-wrapper">
-                <img className="zoom blur" src="https://res.cloudinary.com/dr8u3dssn/image/upload/v1671087858/it%20glober/umbrellas_pibaej.jpg" alt="" />
+                <img className="zoom blur" src="https://res.cloudinary.com/dr8u3dssn/image/upload/v1671147683/it%20glober/cojin-geometrico-el-corte-ingles_80d0d6c8_1898x1270_o6uwae.png" alt="" />
                 <div className="content fade ">
                 <div className="button">SHOP</div>
                 </div>
